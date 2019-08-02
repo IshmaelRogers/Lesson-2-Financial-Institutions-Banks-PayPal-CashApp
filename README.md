@@ -1,7 +1,4 @@
-# Financial-Institutions-Banks-PayPal-CashApp
-Identify different monetary systems
-
-# The Basics of Currency
+# Financial Institutions: Banks/PayPal/CashApp
 ## Objectives:
 1. What is currency?
 2. Why do we use currency?
@@ -33,7 +30,7 @@ That means listening, following instructions, and trying your hardest.
 - Students will be asked to pack their things while remaining seated.
 - Students will be lined up at the door and then walked back to after school program. If any student needs to use the restroom, they will be permitted.
 
-## Lesson 1 Breakdown:
+## Lesson 2 Breakdown:
 ### What is currency?
 - Currency is more than just cash and can be represented all types of ways. Since currency is used to store value it is used as a medium of exchange.
 -Examples:
