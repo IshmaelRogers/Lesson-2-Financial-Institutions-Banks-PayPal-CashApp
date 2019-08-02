@@ -1,4 +1,4 @@
-# Financial Institutions: Banks/PayPal/Cash App/Forex Market
+# Financial Institutions: Banks, PayPal, Cash App, and Forex Market
 ## Objectives:
 1. What are financial institutions?
 2. Why do we use them?
