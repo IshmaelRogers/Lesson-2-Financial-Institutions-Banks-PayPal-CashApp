@@ -1,10 +1,9 @@
-# Financial Institutions: Banks/PayPal/CashApp
+# Financial Institutions: Banks/PayPal/Cash App/Forex Market
 ## Objectives:
-1. What is currency?
-2. Why do we use currency?
-3. How do we use currency? (Exchange Systems)
-4. How do we earn currency? (Entrepreneurship)
-5. Why is it important to know? 
+1. What are financial institutions?
+2. Why do we use them?
+3. How do we use them?
+4. Why is it important to know? 
 
 ## Course Outline:
 - Students will be led to the classroom in a single file line from either youngest to oldest or shortest to tallest.
