@@ -1,4 +1,4 @@
-# Financial Institutions: Banks, PayPal, Cash App, and Forex Market
+# Financial Institutions: Banks, PayPal, Cash App, and the Forex Market
 ## Objectives:
 1. What are financial institutions?
 2. Why do we use them?
@@ -7,22 +7,14 @@
 
 ## Course Outline:
 - Students will be led to the classroom in a single file line from either youngest to oldest or shortest to tallest.
-** Aiming to have a classroom with long tables or spacious so that desk can be pushed together.
 - Students will be paired or grouped together based on grade level.
-- Once every student is seated, I will write my name on the board and begin my introduction.
-- Students will be given the following three rules:
+- Once every student is seated, I will write my name, the date, and the classroom rules on the board.
+- Students will be given a very brief reminder of the following three rules:
 1. Do not talk unless it is your turn to talk.
-It isn't your turn to talk UNLESS you are holding the "Talking Ball" and you can ONLY talk when you are holding the "Talking Ball" (which I will be holding the majority of the time).
-No one is allowed to talk when someone else is talking.
 2. Do not interrupt my class.
-If you cause cause any disruption, you will have to first stand up.
-If further disruption proceeds, student(s) will be removed from classroom.
-Persistent disruption will lead to removal from the class.
-3. Good behavior is rewarded.
-If you come to class and put forth your best effort, I have a few surprises for you.
-That means listening, following instructions, and trying your hardest.
-- Students will be giving time to express any questions, comments, or concerns and have them addressed respectfully making sure to utilize "Talking Ball".
-- Once my introduction is finsihed, we will begin the Lesson of the Day.
+3. Good behavior is always rewarded.
+- Once the overview of the rules is finsihed, I will briefly review last weeks lesson making sure to emphasize key points. 
+- Once the review of last weeks lesson is complete, we will begin the Lesson of the Day.
 - Students will be giving time to express any questions, comments, or concerns and have them addressed respectfully making sure to utilize "Talking Ball".
 - Once lesson is finished, we will proceed to the Learning Activity of the day.
 - At the end of the activity, scores will be tallied and recorded for next class.
