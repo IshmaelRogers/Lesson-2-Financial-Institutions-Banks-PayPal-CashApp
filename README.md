@@ -1,9 +1,8 @@
 # Financial Institutions: Banks, PayPal, Cash App, and the Forex Market
 ## Objectives:
-1. What are financial institutions?
-2. Why do we use them?
-3. How do we use them?
-4. Why is it important to know? 
+- Students will learn how to identify different types of financial institutions.
+- Students will learn why and how to utilize financial instititions in their financial decision making.
+- Students will learn the importance and relevancy of knowing about different financial institutions.
 
 ## Course Outline:
 - Students will be led to the classroom in a single file line from either youngest to oldest or shortest to tallest.
