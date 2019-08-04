@@ -28,18 +28,21 @@
 ### How to identify different types?
 - There are generally 2 types of financial institutions: depository and non-depository.
 1. **Depository Institutions**- institutions that accepts and manages monetary deposits. They also provide loans. 
-2. **Non-Depository Institutions**- institutions that serves as a link between savers and borrowers, but cannot legally accept regular monetary deposits.
-- Instead, they combine payments or contributions of many people in the form of **premiums (contractual payments)** and either invest it or provide credit to others.
+2. **Non-Depository Institutions**- institutions that serves as a link between savers and borrowers, but cannot legally accept regular monetary deposits. Instead, they combine payments or contributions of many people in the form of **premiums (contractual payments)** and either invest it or provide credit to others.
 - We will discuss non-depository institutions in Lesson 6. For now, let's focus on depository institutions and their role in society today.
 
 ### Depository Institutions:
-- As stated before, depository institutions are institutions that accept money, manage deposits, and provide loans. Examples of these type of institutions include, but are not limited to:
-- Commercial Banks- primary purpose is offering traditional financial products and services to the general public and to companies.
-- Savings Banks- primary purpose is accepting savings deposits and paying interest, or the price of borrowed money, on those deposits to account holders. 
-- Peer-to-Peer Lending Platforms (P2P)- primary purpose is to enable individuals to obtain loans directly from other individuals, cutting out the financial institution as the middleman; an alternative method to financing. Some examples of P2P institutions include, but is not limited to:
-1. PayPal, an American company operating a worldwide online payments system, supports online money transfers and serves as an electronic alternative to traditional paper methods like checks and money orders. They also provide loans.
-2. Cash App, a mobile payment service developed by Square, Inc., allows users to transfer money to one another using a mobile phone app. It also allows their users to purchase and sell Bitcoins.
-- It should be briefly mentioned that Forex, or the foreign exchange market, is the market in which participants can buy, sell, exchange, and speculate on currencies. It is made up of banks, commercial companies, central banks, investment management firms, hedge funds, and retail forex brokers and investors. 
+- As stated before, depository institutions are institutions that accept money, manage deposits, and provide loans. 
+- Examples of these type of institutions include, but are not limited to:
+
+***Commercial Banks- primary purpose is offering traditional financial products and services to the general public and to companies.
+
+***Savings Banks- primary purpose is accepting savings deposits and paying interest, or the price of borrowed money, on those deposits to account holders. 
+
+***Peer-to-Peer Lending Platforms (P2P)- primary purpose is to enable individuals to obtain loans directly from other individuals, cutting out the financial institution as the middleman; an alternative method to financing. Some examples of P2P institutions include, but is not limited to: ***
+
+- PayPal, an American company operating a worldwide online payments system, supports online money transfers and serves as an electronic alternative to traditional paper methods like checks and money orders. They also provide loans.
+- Cash App, a mobile payment service developed by Square, Inc., allows users to transfer money to one another using a mobile phone app. It also allows their users to purchase and sell Bitcoins.
 
 ### Why is it important to know?
 - This is important to know because,
