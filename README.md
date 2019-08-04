@@ -1,8 +1,8 @@
 # Financial Institutions: Banks, PayPal, Cash App, and the Forex Market
 ## Objectives:
 - Students will learn how to identify different types of financial institutions.
-- Students will learn why and how to utilize financial instititions in their financial decision making.
 - Students will learn the importance and relevancy of knowing about different financial institutions.
+- Students will learn the purpose of financial instititions and how to utilize them in their financial decision making.
 
 ## Course Outline:
 - Students will be led to the classroom in a single file line from either youngest to oldest or shortest to tallest.
@@ -22,7 +22,8 @@
 
 ## Lesson 2 Breakdown:
 ### What are financial institutions?
-- 
+- A financial institution (FI) is a company engaged in the business of dealing with financial and monetary transactions such as deposits, loans, investments, and currency exchange.
+- Financial institutions, otherwise known as banking institutions, are corporations that provide services as intermediaries of financial markets.
 
 ### Why do we use them?
 - 
