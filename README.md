@@ -23,21 +23,27 @@
 ## Lesson 2 Breakdown:
 ### What is the purpose of financial institutions?
 - Financial institutions are institutions (public or private) that collects funds (from the public or other institutions) and **invest them in, or spends them on,** financial assets.
-- A financial institution's primary and most useful function is to act as an **intermediary, or a link,** between consumers and capital or debt markets by providing banking and investment services.
+- Their primary and most useful function is to act as an **intermediary, or a link,** between consumers and capital or debt markets by providing banking and investment services.
 
 ### How to identify different types?
 - There are generally 2 types of financial institutions: depository and non-depository.
 1. **Depository Institutions**- institutions that accepts and manages monetary deposits. They also provide loans. 
 2. **Non-Depository Institutions**- institutions that serves as a link between savers and borrowers, but cannot legally accept regular monetary deposits.
 - Instead, they combine payments or contributions of many people in the form of **premiums (contractual payments)** and either invest it or provide credit to others.
+- We will discuss non-depository institutions in Lesson 6. For now, lets focus on depository institutions and their role in society today.
 
-### How to utilize them?
+### Depository Institutions:
+- As stated, depository institutions are institutions that accepts money, manages deposits, and provide loans. 
 - Examples of these type of institutions include but are not limited to:
-- Commercial Banks- primary purpose is offering traditional financial products and services to the general public and to companies.
-- Savings Banks- primary purpose is accepting savings deposits and paying interest or dividends on those deposits to corresponding account holders. 
+1. Commercial Banks- primary purpose is offering traditional financial products and services to the general public and to companies.
+2. Savings Banks- primary purpose is accepting savings deposits and paying interest or dividends on those deposits to corresponding account holders. 
 (**Interest can be earned or it can be paid. It is either the profit made on money that is invested or the money paid by a borrower for the use of borrowed money.**)
 (**Since interest is the price paid on borrowed money, interest rates are the percentages used to calculate those prices.**)
-
+- These types of institutions can also include online and mobile financial companies.
+- Examples of these type of institutions include but are not limited to: 
+1. PayPal- is an American company operating a worldwide online payments system that supports online money transfers and serves as an electronic alternative to traditional paper methods like checks and money orders. 
+2. Cash App- a mobile payment service developed by Square, Inc., allowing users to transfer money to one another using a mobile phone app.
+- It should be briefly mentioned that Forex, or the foreign exchange market, is the market in which participants can buy, sell, exchange, and speculate on currencies. It is made up of banks, commercial companies, central banks, investment management firms, hedge funds, and retail forex brokers and investors. 
 
 ### Why is it important to know?
 - This is important to know because,
