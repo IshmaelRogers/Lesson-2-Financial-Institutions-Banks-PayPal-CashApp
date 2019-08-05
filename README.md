@@ -66,8 +66,12 @@ For Lesson 5: Frugal Living- Wants and Needs, students will be given an in-class
 3. Students will also be given their corresponding money (points) earning from the lesson of the day and Lesson 1 to place in their banks.
 
 ### Rules:
-1. By now, each student has earned at least +2000 points based on attendance** alone and each bank should reflect that balance or more**.
-2. Although students will accumulate points working as teams, each student's personal bank should always reflect points earned for individual attendance (Max. earnings = 5000) and points earned within their groups.
+1. By now, each student has earned at least +2000 points based on attendance* alone and each bank should reflect that balance or more**.
+2. Although students will accumulate points working as teams, each student's personal bank should always reflect points earned for individual attendance (Max. earnings = 5000) and points earned within their groups***.
 
 ### Side Teachers Note:
 -Take notes on official roster for points earned or lost by students. This will be needed for Lesson 5 to have an accurate account of "money earned" by each student.
+
+* -This only applies if the student was present for both Lesson 1 and Lesson 2.
+** -Students have the potential to earn points throughout class by answering questions correctly, exhibiting exceptional behavior, and participating in certain learning activities.
+*** -Points earned during group will be distributed equally into students bank account. Example: If John and Mary are working together and earn +3000 points from a learning activity, then John will get +3000 added to his bank account and so will Mary.
