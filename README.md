@@ -69,3 +69,5 @@ For Lesson 5: Frugal Living- Wants and Needs, students will be given an in-class
 1. By now, each student has earned at least +2000 points based on attendance** alone and each bank should reflect that balance or more**.
 2. Although students will accumulate points working as teams, each student's personal bank should always reflect points earned for individual attendance (Max. earnings = 5000) and points earned within their groups.
 
+### Side Teachers Note:
+-Take notes on official roster for points earned or lost by students. This will be needed for Lesson 5 to have an accurate account of "money earned" by each student.
