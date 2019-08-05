@@ -29,7 +29,7 @@ Their primary and most useful function is to act as an **intermediary, or a link
 There are generally 2 types of financial institutions: depository and non-depository.
 1. **Depository Institutions** accepts and manages monetary deposits and provide loans. Examples of these type of institutions include, but are not limited to:
 
-- ***Commercial and Savings Banks***
+- *Commercial and Savings Banks*
 - These financial institutions are insured by the Federal Deposit Insurance Corporation (FDIC) and governed by federal and state laws and regulations.
 - Their primary purpose is offering traditional financial products and services like: making loans, paying checks, accepting deposits, and providing other financial services to the general public and companies. 
 - Banks can be located anywhere, like at your local grocery store or down the street from your home, and they can be big or small.
@@ -56,11 +56,16 @@ It is important to know about financial institutions and payment system because 
 
 ## Learning Activity: Create a Bank
 ### Objective: 
-Students will
+Students will create personal banks to store "money" (points) earned during each lesson. 
 
+For Lesson 5: Frugal Living- Wants and Needs, students will be given an in-class assignment which will require them to make responsible economic choices with the "money saved" in their personal banks. 
 
 ### Strategy:
-1. 
+1. Students will be giving plastic containers, construction paper, makers, stickers and tape.
+2. With these tools, students will decorate their personal banks for the remainder of class time. 
+3. Students will also be given their corresponding money (points) earning from the lesson of the day and Lesson 1 to place in their banks.
 
 ### Rules:
-1. 
+1. By now, each student has earned at least +2000 points based on attendance** alone and each bank should reflect that balance or more**.
+2. Although students will accumulate points working as teams, each student's personal bank should always reflect points earned for individual attendance (Max. earnings = 5000) and points earned within their groups.
+
