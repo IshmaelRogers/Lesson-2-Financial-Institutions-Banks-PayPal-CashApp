@@ -14,16 +14,21 @@
 3. Good behavior is rewarded.
 - Once the overview of the rules is finsihed, briefly review last weeks lesson making sure to emphasize key points.
 - Once the facilitator has finished their introduction, they will begin facilitating the lesson of the day.
-- Students will be giving time to express any questions, comments, or concerns and have them addressed respectfully, making sure to utilize "Talking Ball".
+- Students will be giving time to express any questions, comments, or concerns and have them addressed respectfully.
 - Once the lesson of the day is complete, class will proceed to the Learning Activity of the day.
 - At the end of the activity, scores will be tallied and recorded for next class.
 - Students will be asked to pack their things while remaining seated.
 - Students will be lined up at the door and then walked back to after school program. If any student needs to use the restroom, they will be permitted.
 
 ## Lesson 2 Breakdown:
-### Purpose of Financial Institutions:
-Financial institutions, also known as banking institutions, are institutions (public or private) that collects funds (from the public or other institutions) and **invest them in, or spends them on,** financial assets.
-Their primary and most useful function is to act as an **intermediary, or a link,** between consumers and money markets by providing wealth management services.
+### What are Financial Institutions:
+Financial institutions, also known as banks, are institutions (public or private) that collects funds (from the public or other institutions) and **invest** them in, *or spends them on,* financial assets.
+Their primary and most useful function is to act as an **intermediary**, *or a link,* between consumers and money markets by providing wealth management services.
+
+### Wealth Management Services:
+1.
+2.
+3.
 
 ### Types of Financial Institutions:
 There are generally 2 types of financial institutions: depository and non-depository.
