@@ -25,10 +25,11 @@
 Financial institutions, also known as banks, are institutions (public or private) that collects funds (from the public or other institutions) and **invest** them in, *or spends them on,* financial assets.
 Their primary and most useful function is to act as an **intermediary**, *or a link,* between consumers and money markets by providing wealth management services.
 
-### Wealth Management Services:
-1.
-2.
-3.
+### Primary Functions of Financial Institutions:
+Some primary functions of financial institutions include, but are not limited to:
+1. Financing
+- Provide private and commercial loans for individuals and businesses
+2. 
 
 ### Types of Financial Institutions:
 There are generally 2 types of financial institutions: depository and non-depository.
