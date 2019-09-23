@@ -5,14 +5,14 @@
 - Students will learn the importance and relevancy of knowing about different financial institutions.
 
 ## Course Outline:
-- Students will be led to the classroom in a single file line from either youngest to oldest or shortest to tallest.
-- Students will be paired or grouped together based on grade level.
+- Students will be led to the classroom in a single file line.
+- Students will be paired or grouped together based on grade level (older kids with younger kids).
 - Once every student is seated, facilitator will begin their introduction.
 - Students will be given the following three rules:
 1. No talking out of turn.
 2. Do not interrupt the class.
 3. Good behavior is rewarded.
-- Once the overview of the rules is finsihed, briefly review last weeks lesson making sure to emphasize key points.
+- Once the overview of the rules is finished, briefly review last weeks lesson making sure to emphasize key points.
 - Once the facilitator has finished their introduction, they will begin facilitating the lesson of the day.
 - Students will be giving time to express any questions, comments, or concerns and have them addressed respectfully.
 - Once the lesson of the day is complete, class will proceed to the Learning Activity of the day.
@@ -20,9 +20,17 @@
 - Students will be asked to pack their things while remaining seated.
 - Students will be lined up at the door and then walked back to after school program. If any student needs to use the restroom, they will be permitted.
 
+## Lesson 1 Recap:
+So last week we talked about some basics of money. 
+- Can anyone tell me something that they remember from our discussion last week?
+1. Money can also be known as funds, currency, 
 ## Lesson 2 Breakdown:
-### What are Financial Institutions:
-Financial institutions, also known as banks, are institutions (public or private) that collects funds (from the public or other institutions) and **invest** them in, *or spends them on,* financial assets.
+### What are Financial Institutions?
+Financial institutions, also known as banks, are institutions that collects funds (from the public or other financial institutions) and **invest** them in, *or spends them on,* financial assets.
+- These institutions can be Public or Private
+- Meaning you can go down the street and see a bank on the corner, go inside of a grocery store and see a bank in there, or you may pass by one you didn't even know was a bank because of it's exclusivity and privacy
+
+### Why do we need Financial Institutions?
 Their primary and most useful function is to act as an **intermediary**, *or a link,* between consumers and money markets by providing wealth management services.
 
 ### Primary Functions of Financial Institutions:
