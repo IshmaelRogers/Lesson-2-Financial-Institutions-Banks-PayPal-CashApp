@@ -23,7 +23,14 @@
 ## Lesson 1 Recap:
 So last week we talked about some basics of money. 
 - Can anyone tell me something that they remember from our discussion last week?
-1. Money can also be known as funds, currency, 
+
+1. Money can also be known as funds, currency, capital, and legal tender.
+- It can be physical money like dollars and coins.
+- It can be virtual money like bitcoin.
+2. Money is something that is generally accepted to obtain goods and services.
+- In order for money to used to obtain something, there most be an exchange.
+- You give me the money, I'll provide you with goods and services.
+
 ## Lesson 2 Breakdown:
 ### What are Financial Institutions?
 Financial institutions, also known as banks, are institutions that collects funds (from the public or other financial institutions) and **invest** them in, *or spends them on,* financial assets.
